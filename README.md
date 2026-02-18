@@ -132,7 +132,7 @@ EXEC silver.load_silver;
 
 **Douha Majri** *Élève Ingénieure à l'École Centrale Casablanca* *Spécialisée en Analytics Engineering & Data Architecture*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douha-majri) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douha-majri)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Douha-MAJRI)
 
 ---
